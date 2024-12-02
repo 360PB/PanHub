@@ -11,6 +11,17 @@
 - **搜索历史：** 查看和管理之前的搜索查询。
 - **响应式设计：** 提供用户友好的界面和自定义样式。
 
+## win整合包
+
+
+
+夸克链接：https://pan.quark.cn/s/59b84d4aa3d5
+百度链接:  https://pan.baidu.com/s/1iB8bHZk7Ya5KgrnAERygQw?pwd=YYMH 
+
+下载解压后双击start.bat启动
+
+
+
 ## 安装
 
 ### 前提条件
