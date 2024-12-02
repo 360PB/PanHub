@@ -36,7 +36,7 @@ def main():
     st.markdown("""
         <div style="text-align: center; margin: 2rem 0;">
             <h1 style="color: #4285f4; font-size: 2.5rem;">🔍 夸克网盘资源搜索</h1>
-            <p style="color: #666;">快速搜索，轻松找到您需要的资源</p>
+            <p style="color: #666;">聚合搜索，轻松找到您需要的资源</p>
         </div>
     """, unsafe_allow_html=True)
 
@@ -51,7 +51,7 @@ def main():
         )
     with search_col2:
         # 使用 Streamlit 的按钮，无需自定义 HTML
-        search_clicked = st.button("🔍 搜索", key="search_button")
+        search_clicked = st.button("搜索", key="search_button")
 
     # 侧边栏：动态启用/禁用搜索源
     st.sidebar.markdown("### 启用搜索源")

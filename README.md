@@ -1,6 +1,8 @@
 # PanHub
 聚合网盘搜索,配置多个来源搜索夸克网盘资源
 
+![Snipaste_2024-12-02](https://yymhtc.oss-cn-beijing.aliyuncs.com/image/Snipaste_2024-12-02.png)
+
 ##  功能
 
 - **多来源搜索：** 在多个配置的来源中搜索资源。
